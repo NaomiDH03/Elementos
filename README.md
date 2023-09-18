@@ -1,2 +1,2 @@
 # Elementos
-Portafolio de las prácticas de elementos programables
+Portafolio de las prácticas del laboratorio de elementos programables
